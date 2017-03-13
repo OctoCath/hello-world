@@ -1,5 +1,6 @@
-# hello-world
-C's first repository
+OctoCath the newbie recently learned to greet the world in C thanks to Harvard's CS50 class!
 
-Rawrawrawrarararararrawr !!
-(Translation: I'm very excited to be on Github. I'm figuring out this slowly and will share more as I go. Thanks!)
+This is also her first repository on Github. :)
+
+
+*OctoCath is twirling around with excitement!!!!*
